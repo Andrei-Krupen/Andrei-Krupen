@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### Stats
+
+[![Andrei Krupen stats](https://github-readme-stats.vercel.app/api?username=Andrei-Krupen&show_icons=true&theme=tokyonight&hide=stars,issues)](https://github.com/Andrei-Krupen/github-readme-stats)
+
+
 <!--
 **Andrei-Krupen/Andrei-Krupen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
