@@ -1,6 +1,6 @@
 ### Stats:
 
-[![Andrei Krupen stats](https://github-readme-stats.vercel.app/api?username=Andrei-Krupen&show_icons=true&theme=tokyonight&hide=stars,issues)](https://github.com/Andrei-Krupen/github-readme-stats)
+[![Andrei Krupen stats](https://github-readme-stats.vercel.app/api?username=Andrei-Krupen&show_icons=true&theme=tokyonight&hide=stars,issues&bg_color=00000000&rank_icon=github&hide_title=true&include_all_commits=false)](https://github.com/Andrei-Krupen/github-readme-stats)
 
 
 <!--
